@@ -33,5 +33,6 @@ plt.scatter(Bpoints_x,Bpoints_y, color='blue', label="B")
 plt.scatter(Cpoints_x,Cpoints_y, color='orange', label="C")
 plt.scatter(Dpoints_x,Dpoints_y, color='red', label="D")
 #plt.legend()
+#email?
 
 plt.show()
